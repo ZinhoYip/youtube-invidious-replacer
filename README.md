@@ -9,7 +9,7 @@ This is a powerful Tampermonkey script that replaces the native YouTube player w
 ## 解决的问题 (Features)
 
 这个脚本是我们逐步调试的成果，旨在解决以下所有问题：
-* **替换播放器**: 核心功能，使用 Invidious 作为播放核心,绕过googlevideo.com,屏蔽掉youtube的广告。
+* **替换播放器**: 核心功能，使用 Invidious 作为播放核心，绕过googlevideo.com，屏蔽掉youtube的广告。
 * **双重音频**: 解决了在网络环境良好时，YouTube 原生音频与 Invidious 音频同时播放的问题。
 * **UI 遮挡**: 解决了 Invidious 播放器的进度条、暂停等控件被 YouTube 原生UI遮挡而无法点击的问题。
 * **安全策略兼容**: 解决了现代浏览器和 YouTube 的 TrustedHTML 安全策略导致的脚本错误。
