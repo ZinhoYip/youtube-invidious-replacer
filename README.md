@@ -19,7 +19,7 @@ This is a powerful Tampermonkey script that replaces the native YouTube player w
 ## 如何安装 (Installation)
 
 1.  首先，请确保您的浏览器已经安装了 [Tampermonkey](https://www.tampermonkey.net/) 扩展。
-2.  然后，**[点击此处直接安装脚本](你的脚本安装链接)**。 (请看下面的说明来获取这个链接)
+2.  然后，**[点击此处直接安装脚本](https://github.com/ZinhoYip/youtube-invidious-replacer/raw/refs/heads/main/YT-Replacer.user.js)**。 (请看下面的说明来获取这个链接)
 
 ## 自定义 (Configuration)
 
