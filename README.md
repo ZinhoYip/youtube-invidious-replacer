@@ -26,7 +26,7 @@ This is a powerful Tampermonkey script that replaces the native YouTube player w
 您可以编辑脚本，修改顶部的 `INVIDIOUS_INSTANCE_DOMAIN` 常量为您喜欢的、更快的 Invidious 公共实例地址。
 
 ```javascript
-const INVIDIOUS_INSTANCE_DOMAIN = '[https://inv.nadeko.net](https://inv.nadeko.net)'; // 在这里修改
+ const INVIDIOUS_INSTANCE_DOMAIN = 'https://inv.nadeko.net';// 在这里修改
 ```
 
 ## 许可证 (License)
